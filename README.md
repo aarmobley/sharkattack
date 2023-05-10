@@ -15,5 +15,7 @@ This data was also pretty messy so it needed to be cleaned up a bit in order to 
 ## Questions and Answers
 
 + What percetage of shark attacks were Males and what percentage were female?
- 
+ <div id="header" align="center">
+  <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20Attack%20pie.png" width="600"/>
+</div>
 
