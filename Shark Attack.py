@@ -132,8 +132,6 @@ sharks2['Fatal (Y/N)'].value_counts()
 
 sharks2.to_csv(r'C:\Users\Aaron Mobley\Desktop\Python\sharks2.csv')
 
-#using 'Type or 'Activiy as the IV?
-
 
 sharks2['Type'].value_counts()
 sharks2['Activity'].value_counts(10)
