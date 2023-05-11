@@ -20,7 +20,7 @@ This data was also pretty messy so it needed to be cleaned up a bit in order to 
    <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20Attack%20pie.png" width="600"/>
     <li>Which body part is a shark most likely to attack?</li>
     <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20attack%20wordcloud.png" width="600"/> <br>
-     -The 'Injury column was messy so I was able to pick out key words with text analysis and NLP 
+     -The 'Injury' column was messy so I was able to pick out specifc body parts with NLP and specific word search. <br>
     <li>Have shark attacks increased over time?</li>
   </ul>
 </div>
