@@ -14,8 +14,19 @@ This data was also pretty messy so it needed to be cleaned up a bit in order to 
 
 ## Questions and Answers
 
-+ What percetage of shark attacks were Males and what percentage were female?
- <div id="header" align="center">
-  <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20Attack%20pie.png" width="600"/>
+<div>
+  <ul>
+    <li>What percetage of shark attack victims were Males and what percentage were female?</li>
+   <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20Attack%20pie.png" width="600"/>
+    <li>Which body part is a shark most likely to attack?</li>
+    <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20attack%20wordcloud.png" width="600"/> <br>
+     -The 'Injury column was messy so I was able to pick out key words with text analysis and NLP 
+    <li>Have shark attacks increased over time?</li>
+  </ul>
 </div>
 
+
+
+
+
+ 
