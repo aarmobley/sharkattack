@@ -23,6 +23,7 @@ sharks.info()
 #does male or female get attacked by sharks more often?
 #Which body part is most likely to be attacked?
 #Does the type of attack impact whether the attack is fatal?
+#Have the number of shark attacks increased over the years 
 
 
 #DATA WRANGLING
@@ -139,3 +140,17 @@ sharks2['Activity'].value_counts(10)
 #remove extra space in ' N' in 'Fatal column
 sharks2['Fatal (Y/N)'] = sharks2['Fatal (Y/N)'].str.strip()
 sharks2['Fatal (Y/N)'].value_counts()
+
+#shark attacks per 10 years
+#group sharks attacks into a column by 10 years and graph it.
+
+sharks2['Year'].value_counts().head(100)
+
+sharks2['Decades'] =  pd.cut(sharks2['Year'], bins=range(1915, 2015, 10), right=False)
+
+grouped_data = sharks2.groupby('Decades').size()
+
+grouped_data.plot(kind='bar')
+plt.title("Shark Attacks Over the Years")
+plt.xlabel("Years")
+plt.ylabel("Count")
