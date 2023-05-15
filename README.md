@@ -22,6 +22,7 @@ This data was also pretty messy so it needed to be cleaned up a bit in order to 
     <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20attack%20wordcloud.png" width="600"/> <br>
      -The 'Injury' column was messy so I was able to pick out specifc body parts with NLP and specific word search. <br>
     <li>Have shark attacks increased over time?</li>
+   <img  src="https://github.com/aarmobley/sharkattack/blob/main/Sharks%20bar%20graph.png" width="600"/> <br>
   </ul>
 </div>
 
