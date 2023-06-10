@@ -20,14 +20,14 @@ This data was not clean so it needed to be transformed a bit in order to perform
 <div>
   <ul>
     <li>What percetage of shark attack victims were Males and what percentage were female?</li>
-   <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20Attack%20pie.png" width="600"/>
+    <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20Attack%20pie.png" width="450"/>
     </ul>
-    <li>Which body part is a shark most likely to attack?</li>
-    <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20attack%20wordcloud.png" width="600"/> <br>
+    <li>Which body part is a shark most likely to bite? *Word Cloud*</li>
+    <img src="https://github.com/aarmobley/sharkattack/blob/main/Shark%20attack%20wordcloud.png" width="450"/> <br>
      The 'Injury' column was messy so I was able to pick out specifc body parts with NLP and specific word search. <br>
     </ul>
     <li>Have shark attacks increased over time?</li>
-    <img  src="https://github.com/aarmobley/sharkattack/blob/main/Sharks%20bar%20graph.png" width="600"/> <br>
+    <img  src="https://github.com/aarmobley/sharkattack/blob/main/Sharks%20bar%20graph.png" width="450"/> <br>
     </ul>
 </div>
 
