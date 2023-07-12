@@ -1,6 +1,6 @@
 # Shark Attacks throughout the last 100 years 🦈 <br>
 ## Summary
-Detailed data for shark attacks over the last 100 years. This dataset has a lot of information <br>
+* Detailed data for shark attacks over the last 100 years. This dataset has a lot of information <br>
 packed in to it. Type of shark, injury type, victim, activity, country and location to name a few. <br>
 This data was not clean so it needed to be transformed a bit in order to perform the proper analysis. <br>
 
